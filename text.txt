@@ -1,2 +1,2 @@
 this is some text
-changes by bob
+changes by alice, not bob
